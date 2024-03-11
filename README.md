@@ -2,7 +2,7 @@
 ![alt text](image.png)
 ![alt text](image-1.png)
 
-Link: 
+Link: https://nicolehekim.github.io/timed-quiz-with-highscores/
 
 Git: https://github.com/nicolehekim/timed-quiz-with-highscores
 
